@@ -6,6 +6,7 @@ RUN apt-get update && \
                     apt-transport-https \
                     sudo \
                     netcat \
+                    socat \
                     net-tools \
                     vifm \
                     libx11-6 \
